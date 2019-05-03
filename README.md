@@ -1,2 +1,2 @@
-# damaximum-github.io
+# damaximum.github.io
 My website
